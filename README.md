@@ -1,4 +1,4 @@
-# Hugo-Porto Website
+# web
 
 This is a sample website built with [Hugo](https://gohugo.io/), a static site generator, and the
 [Hugo-Porto](https://github.com/hugo-porto/theme) theme.
