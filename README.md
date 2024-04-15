@@ -1,5 +1,7 @@
 # web
 
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/20aeb1a662c3458493b6543773c88de9)](https://app.codacy.com/gh/hugo-porto/web/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade)
+
 This is a sample website built with [Hugo](https://gohugo.io/), a static site generator, and the
 [Hugo-Porto](https://github.com/hugo-porto/theme) theme.
 
