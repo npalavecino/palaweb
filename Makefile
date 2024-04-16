@@ -5,3 +5,7 @@
 lint:
 	markdownlint **/*.md
 @PHONY: lint
+
+dev: lint
+	hugo server --buildDrafts
+@PHONY: dev
