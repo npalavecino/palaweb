@@ -6,8 +6,3 @@ title = 'My New Hugo Site'
 [module]
 [[module.imports]]
 path = "github.com/hugo-porto/theme"
-
-[params]
-avatar = "images/avatar.png"
-
-[features]
