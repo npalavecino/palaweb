@@ -9,3 +9,8 @@ lint:
 dev: lint
 	hugo server --buildDrafts
 @PHONY: dev
+
+upgrade: 
+	hugo mod get -u ./...
+	hugo mod tidy
+@PHONY: upgrade
