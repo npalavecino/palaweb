@@ -33,7 +33,7 @@ link = 'https://www.linkedin.com/in/andrewmolyuk/'
 
 # Opens the linked document in a new window or tab when clicked (e.g. _blank)
 # Possible values: _blank, _self, _parent, _top
-target = "_self"
+target = "_blank"
 
 # The text for the button (e.g. Hire Me)
 text = 'Hire Me'
