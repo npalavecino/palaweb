@@ -1,0 +1,53 @@
+[section] # =============================================================================================================
+
+# The unique identifier for the section
+id = 'skills'
+
+# The flag to enable or disable the section
+enabled = true
+
+# Use the following to set the order of the sections on the page
+weight = 2
+
+[params] # =============================================================================================================
+
+[[params.skills]]
+title = "HL / HA Distributed Systems"
+description = "Experienced with writing high load and high availablity systems. 100% uptime, 0% data loss and performance degradation. Last project was able to handle 100K requests per second on idle."
+icon = "move"
+weight = 1
+
+
+[[params.skills]]
+title = "Go Development"
+description = "Using Go as the main language for professional development. Capable of writing scalable, testable, and maintainable program. Also, experienced with writing microservices."
+icon = "code"
+weight = 2
+
+
+[[params.skills]]
+title = "Cloud Computing"
+description = "Deep qualified with AWS cloud services. Capable of develop serverless, containerized, and traditional services. As well as, experienced with writing infrastructure as code with Terraform."
+icon = "cloud"
+weight = 3
+
+
+[[params.skills]]
+title = "Docker & Kubernetes"
+description = "Using Docker, Swarm, Kubernetes as the main tools for development and deployment applications. Experienced with multi-stage, multi-arch builds, including docker-compose."
+icon = "package"
+weight = 1
+
+
+[[params.skills]]
+title = "Node.js"
+description = "Experienced with using JavaScript and TypeScriptas for writing frontend and backend services, like RESTful and GraphQL APIs. Familiar with React.js, Express.js, Nest.js, and other frameworks."
+icon = "hexagon"
+weight = 1
+
+
+[[params.skills]]
+title = "CI / CD"
+description = "Experienced with writing CI/CD pipelines for different projects. Using Jenkins, GitLab CI, Circle CI, GitHub Actions, and other tools for automating the development and deployment processes."
+icon = "disc"
+weight = 1
