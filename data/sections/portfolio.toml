@@ -12,7 +12,7 @@ weight = 4
 [params] # =============================================================================================================
 
 # The title of the section
-title = "My open source projects"
+title = "Projects in Open Source"
 
 # The description of the section
 description = "I have compiled here a selection of my most substantial and favored open source projects that I have contributed to in my professional capacity."
