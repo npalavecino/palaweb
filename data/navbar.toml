@@ -13,8 +13,8 @@ text = "#andrewmolyuk"
 
 # Define the menu items
 [[params.menu]]
-name = "Blog"
-link = "/blog"
+name = "Posts"
+link = "/posts"
 
 [params.getMyCVButton]
 
