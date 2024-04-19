@@ -29,8 +29,3 @@ weight = 4
 type = "whatsapp"
 id = "+972544767482"
 weight = 5
-
-[[params.social]]
-type = "email"
-id = "andrew@molyuk.com"
-weight = 6

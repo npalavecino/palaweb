@@ -1,7 +1,7 @@
 [params]
 
 # Logo to show in the navbar
-logo = "images/logo.png"
+logo = "images/logo.svg"
 
 [params.title]
 
@@ -10,6 +10,11 @@ enabled = true
 
 # Text to display in the navbar
 text = "#andrewmolyuk"
+
+# Define the menu items
+[[params.menu]]
+name = "Blog"
+link = "/blog"
 
 [params.getMyCVButton]
 
