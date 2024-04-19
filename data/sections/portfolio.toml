@@ -19,7 +19,7 @@ description = "I have compiled here a selection of my most substantial and favor
 
 [[project]]
 title = "mongo-leader"
-description = "mongo-leader is a Node.js package for leader election backed by MongoDB. It is inspired by the redis-leader library. The main class Leader extends the Node.js EventEmmiter class, allowing instances to emit events when they gain or lose leadership status. This makes it a powerful tool for managing distributed systems where only one instance should be in control at any given time."
+description = "Mongo Leader is a Node.js package for leader election backed by MongoDB. It is inspired by the redis-leader library. The main class Leader extends the Node.js EventEmmiter class, allowing instances to emit events when they gain or lose leadership status. This makes it a powerful tool for managing distributed systems where only one instance should be in control at any given time."
 link = "https://github.com/andrewmolyuk/mongo-leader"
 weight = 1
 
