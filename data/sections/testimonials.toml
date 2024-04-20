@@ -7,7 +7,7 @@ id = 'testimonials'
 enabled = true
 
 # Use the following to set the order of the sections on the page
-weight = 6
+weight = 7
 
 [params] # =============================================================================================================
 
