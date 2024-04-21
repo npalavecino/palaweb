@@ -10,7 +10,7 @@ dev: lint
 	hugo server --buildDrafts
 @PHONY: dev
 
-build
+build:
 	hugo --gc --minify --cleanDestinationDir
 .PHONY: build
 
