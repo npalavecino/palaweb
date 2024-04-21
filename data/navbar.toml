@@ -1,7 +1,7 @@
 [params]
 
 # Logo to show in the navbar
-logo = "images/logo.svg"
+# logo = "images/logo.svg"
 
 [params.title]
 
@@ -9,12 +9,12 @@ logo = "images/logo.svg"
 enabled = true
 
 # Text to display in the navbar
-text = "#andrewmolyuk"
+text = "hugo-porto"
 
 # Define the menu items
 [[params.menu]]
-name = "Posts"
-link = "/posts"
+name = "Link"
+link = "https://www.google.com"
 
 [params.getMyCVButton]
 
@@ -25,4 +25,4 @@ enabled = true
 text = "Get my CV"
 
 # URL to redirect to when the button is clicked
-link = "files/Andrew Molyuk.pdf"
+link = "files/cv.pdf"

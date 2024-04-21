@@ -17,21 +17,21 @@ title = "Education"
 # The description for the section
 description = "Below is a summary of the significant educational milestones in my life. I have always been passionate about learning and have always been eager to learn new things."
 
-
+# The list of education places and courses
 [[education]]
-year = "2013"
-name = "Vanderbilt University"
-description = "Finished a year studying the course «Pattern-Oriented Software Architectures for Concurrent and Networked Software». The course was taught by Douglas C. Schmidt, a professor of computer science and well known author of several books on patterns and software architecture."
+year = "2024"
+name = "Professional Course"
+description = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ut purus eget sapien fermentum tincidunt. Nullam nec purus nec purus fermentum tincidunt. Nullam nec purus nec purus fermentum tincidunt."
 weight = 1
 
 [[education]]
-year = "2005 - 2006"
-name = "John Bryce Training Center"
-description = "Successfully completed with very high grade a two-year course on «System Analysis with UML in Web Services Environment», instructed by leading Israeli software development specialists. The course was focused on the design and architecture of modern applications using UML."
+year = "2011 - 2014"
+name = "Training Center"
+description = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ut purus eget sapien fermentum tincidunt. Nullam nec purus nec purus fermentum tincidunt. Nullam nec purus nec purus fermentum tincidunt. Lorem ipsum dolor sit amet, consectetur adipiscing elit."
 weight = 2
 
 [[education]]
 year = "1990 - 1996"
-name = "Taras Shevchenko National University"
-description = "Graduated with honors from the Faculty of Applied Mathematics and Programming. The faculty is one of the leading faculties in Ukraine in the field of computer science and information technologyin the oldest and one of the most prestigious universities in Ukraine."
+name = "University"
+description = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ut purus eget sapien fermentum tincidunt. Nullam nec purus nec purus fermentum tincidunt."
 weight = 3

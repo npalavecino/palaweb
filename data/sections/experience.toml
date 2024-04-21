@@ -12,7 +12,7 @@ weight = 4
 [params] # =============================================================================================================
 
 # The title of the section
-title = "Professional Milestones"
+title = "Experience"
 
 # The description of the section
 [[params.description]]
@@ -20,33 +20,32 @@ text = "I have experience in developing high load and high availability systems,
 [[params.description]]
 text = "Here are some of the companies I have worked for with a lot of challenges and interesting projects."
 
+# The list of companies
 [[company]]
-title = "Vidcrunch"
+title = "Company 1"
 years = "2024"
 weight = 1
 [[company.description]]
-text = "I immersed myself deeply in the realm of video ads and arbitration, leading a fully remote development team. We handled an impressive volume of approximately in 23 billion aggregated events each day and updated around 300 million entries in our database daily. Operating complex decision-making algorithms, we managed over 250 automatically scalable computing units during peak loads while effectively automating business processes."
+text = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus. Suspendisse lectus tortor, dignissim sit amet, adipiscing nec, ultricies sed, dolor. Cras elementum ultrices diam. Maecenas ligula massa, varius a, semper congue, euismod non, mi."
 [[company.description]]
-text = "During the challenging times of the coronavirus pandemic and quarantine, we adapted to working from home, encountering new obstacles and finding joy in overcoming them daily."
-[[company.description]]
-text = "Unfortunately, the war in Ukraine broke out. As a result, we had to discontinue collaboration with Belarus and relocated our R&D center to the picturesque country of Georgia. This transition proved to be both delicate and fascinating, providing valuable experiences for me and my team."
+text = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus. Suspendisse lectus tortor, dignissim sit amet, adipiscing nec, ultricies sed, dolor. Cras elementum ultrices diam."
 
 [[company]]
-title = "Screenz"
-years = "2016"
+title = "Company 2"
+years = "2022"
 weight = 2
 [[company.description]]
-text = "During that period, my days were filled with American TV shows and relentless hard work. Balancing distributed development teams and local units consumed most of my time."
+text = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus. Suspendisse lectus tortor, dignissim sit amet, adipiscing nec, ultricies sed, dolor. Cras elementum ultrices diam."
 [[company.description]]
-text = "In an impressively short span, we managed to develop a sophisticated voting system for an ultra-large-scale application. This robust system had the capability to handle a staggering 30 million simultaneous connections, processing up to 3 million requests per second. We successfully deployed this system across various countries, including the United States, Brazil, Argentina, Portugal, Indonesia, Israel, and Russia."
+text = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus. Cras elementum ultrices diam."
 [[company.description]]
-text = "I felt a surge of excitement when I had the opportunity to collaborate with renowned entities such as ABC, Disney, Univision, and Fusion. It was a privilege to contribute to projects involving these esteemed organizations."
+text = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus. Suspendisse lectus tortor, dignissim sit amet, adipiscing nec, ultricies sed, dolor. Cras elementum ultrices diam. Maecenas ligula massa, varius a, semper congue, euismod non, mi. Proin porttitor, orci nec nonummy molestie, enim est eleifend mi, non fermentum diam nisl sit amet erat."
 
 [[company]]
-title = "BestTV"
-years = "2011"
+title = "Company 3"
+years = "2020"
 weight = 3
 [[company.description]]
-text = "For a significant period, I served as an architect in a small yet ambitious company focused on web-based video asset management. During this time, we forged partnerships with prominent Israeli media giants, including Ynet, Maariv, Walla, TheMarker, Yellow pages, and others. We also collaborated with a number of international companies, including the BBC, The New York Times, and The Washington Post."
+text = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus. Suspendisse lectus tortor, dignissim sit amet, adipiscing nec, ultricies sed, dolor. Cras elementum ultrices diam. Maecenas ligula massa, varius a, semper congue, euismod non, mi."
 [[company.description]]
-text = "The experience proved to be highly engaging and filled with challenges, particularly due to the fact that we built the entire system from the ground up. This endeavor provided me with my first taste of C-level managerial responsibilities, which added an extra layer of growth and learning to my professional journey."
+text = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus. Suspendisse lectus tortor, dignissim sit amet, adipiscing nec, ultricies sed, dolor. Cras elementum ultrices diam."

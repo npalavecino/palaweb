@@ -1,5 +1,5 @@
 [params]
-copyright = "© 2001-2024 Andrew Molyuk"
+copyright = "© 2023-2024 Kate Wolff. All rights reserved."
 
 # Social links. Possible type values are: 
 # github, twitter, linkedin, instagram, telegram, facebook, phone, email, whatsapp, youtube, dribbble, behance, medium
@@ -7,25 +7,25 @@ copyright = "© 2001-2024 Andrew Molyuk"
 
 [[params.social]]
 type = "linkedin"
-id = "andrewmolyuk"
+id = "johndoe"
 weight = 1
 
 [[params.social]]
 type = "github"
-id = "andrewmolyuk"
+id = "johndoe"
 weight = 2
 
 [[params.social]]
 type = "facebook"
-id = "andrewmolyuk"
+id = "johndoe"
 weight = 3
 
 [[params.social]]
 type = "telegram"
-id = "andrewmolyuk"
+id = "johndoe"
 weight = 4
 
 [[params.social]]
 type = "whatsapp"
-id = "+972544767482"
+id = "+1234567890"
 weight = 5
