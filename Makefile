@@ -10,6 +10,10 @@ dev: lint
 	hugo server --buildDrafts
 @PHONY: dev
 
+build: lint
+	hugo --gc --minify --cleanDestinationDir
+.PHONY: build
+
 upgrade: 
 	hugo mod get -u ./...
 	hugo mod tidy
