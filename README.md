@@ -5,6 +5,8 @@
 This is a sample website built with [Hugo](https://gohugo.io/), a static site generator, and the
 [Hugo-Porto](https://github.com/hugo-porto/theme) theme.
 
+You can find the latest version deployed at [https://hugo-porto.netlify.app/](https://hugo-porto.netlify.app/).
+
 ## Prerequisites
 
 - [Hugo](https://gohugo.io/getting-started/installing/) - a popular open-source static site generator written in Go.
