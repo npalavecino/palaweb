@@ -5,4 +5,4 @@ command = "make build"
 [context.production.environment]
 HUGO_VERSION = "0.118.0"
 HUGO_ENV = "production"
-GO_VERSION = "1.20"
+GO_VERSION = "1.21"
