@@ -2,8 +2,13 @@ baseURL = 'https://hugo-porto.netlify.app/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 
+[author]
+name = 'Kate Wolff'
+
+
 [params]
-favicon = "images/favicon.png"
+description = "kate Wolff personal website"
+keywords = "Kate Wolff, personal website, blog, portfolio"
 
 # Add theme using Hugo modules
 [module]
