@@ -13,8 +13,16 @@ text = "hugo-porto"
 
 # Define the menu items
 [[params.menu]]
+name = "Home"
+link = "/"
+
+[[params.menu]]
 name = "Link"
 link = "https://www.google.com"
+
+[[params.menu]]
+name = "Posts"
+link = "/posts"
 
 [params.getMyCVButton]
 
