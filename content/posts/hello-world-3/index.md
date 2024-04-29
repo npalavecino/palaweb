@@ -1,6 +1,6 @@
 ---
-title: 'Hello World 2'
-date: 2024-04-26T16:59:59+03:00
+title: 'Hello World 3'
+date: 2024-04-27T16:59:59+03:00
 draft: false
 params:
   image: 'index.png'
@@ -9,8 +9,7 @@ params:
 Pellentesque congue. Ut in risus volutpat libero pharetra tempor. Cras vestibulum bibendum augue. Praesent egestas leo
 in pede. Praesent blandit odio eu enim. Pellentesque sed dui ut augue blandit sodales.
 
-Maecenas ligula massa, varius a, semper congue, euismod non, mi. Cras elementum ultrices diam. Maecenas ligula massa,
-varius a, semper congue, euismod non, mi.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 
 <!--more-->
 
