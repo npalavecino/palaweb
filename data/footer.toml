@@ -1,0 +1,21 @@
+# copyright = "© 2023-2024 John Doe. All rights reserved."  
+
+[[social]]
+  type = "linkedin"
+  id   = "johndoe"
+
+[[social]]
+  type = "github"
+  id   = "johndoe"
+
+[[social]]
+  type = "facebook"
+  id   = "johndoe"
+
+[[social]]
+  type = "telegram"
+  id   = "johndoe"
+
+[[social]]
+  type = "whatsapp"
+  id   = "+1234567890"

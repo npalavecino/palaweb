@@ -3,18 +3,28 @@
 .SILENT:
 
 lint:
-	markdownlint **/*.md
+	markdownlint '**/*.md'
 @PHONY: lint
 
 dev: lint
-	hugo server --buildDrafts
+	hugo server --buildDrafts --buildFuture --disableFastRender --noHTTPCache  --navigateToChanged --templateMetricsHints --templateMetrics --verbose --watch --port 1313
 @PHONY: dev
 
-build:
+dev-theme: lint
+	HUGO_MODULE_REPLACEMENTS="github.com/hugo-porto/theme->../../theme" hugo server --buildDrafts --buildFuture --disableFastRender --noHTTPCache  --navigateToChanged --templateMetricsHints --templateMetrics --verbose --watch --port 1313
+@PHONY: dev-theme
+
+clean:
+	rm -rf public
+	rm -rf resources
+	rm -rf .resources
+@PHONY: clean
+
+build: clean
 	hugo --gc --minify --cleanDestinationDir
 .PHONY: build
 
-upgrade: 
+upgrade:
 	hugo mod get -u ./...
 	hugo mod tidy
 @PHONY: upgrade
