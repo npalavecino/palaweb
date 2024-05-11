@@ -1,9 +1,9 @@
 ---
 title: 'Hello World 2'
 date: 2024-04-26T16:59:59+03:00
+tags: ['hello', 'world']
+image: 'index.png'
 draft: false
-params:
-  image: 'index.png'
 ---
 
 Pellentesque congue. Ut in risus volutpat libero pharetra tempor. Cras vestibulum bibendum augue. Praesent egestas leo

@@ -1,9 +1,9 @@
 ---
 title: 'Hello World'
 date: 2024-04-25T16:58:51+03:00
+tags: ['hello', 'world']
+image: 'index.png'
 draft: false
-params:
-  image: 'index.png'
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus. Suspendisse lectus tortor, dignissim sit amet,
