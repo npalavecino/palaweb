@@ -1,0 +1,16 @@
+<nav class="flex justify-between items-center text-sm mt-8">
+  {{ if .Paginator.HasPrev }}
+    <a class="text-blue-500 hover:underline" href="{{ .Paginator.Prev.URL }}">← Anterior</a>
+  {{ else }}
+    <span></span>
+  {{ end }}
+
+  <span>Página {{ .Paginator.PageNumber }} de {{ .Paginator.TotalPages }}</span>
+
+  {{ if .Paginator.HasNext }}
+    <a class="text-blue-500 hover:underline" href="{{ .Paginator.Next.URL }}">Siguiente →</a>
+  {{ else }}
+    <span></span>
+  {{ end }}
+</nav>
+
